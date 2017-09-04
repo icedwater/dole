@@ -15,6 +15,12 @@ already "in the pipeline" include:
  - Gitpitch
  - OpenDocument
 
+## Translation
+
+This is my collection of random notes and tools as I learn the above topics. I
+am always open to suggestions for improvement, so feel free to create an issue
+and let me know what you think.
+
 Please see the respective folders for more details.
 
 All work is licensed under the MIT license.
